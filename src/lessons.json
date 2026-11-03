@@ -1,0 +1,372 @@
+[
+  {
+    "id": "painting",
+    "title": "고양이 그림방",
+    "hanja": "繪畫",
+    "english": "A room of paintings",
+    "description": "붓끝에 담긴 두 고양이, 어느 그림이 더 마음에 드나요?",
+    "stamp": "그림",
+    "icon": "cat",
+    "audio": "A1",
+    "start": 1.67,
+    "end": 20.75,
+    "lines": [
+      {
+        "text": "Minho, look at these two [paintings] of cats here.",
+        "start": 1.67,
+        "end": 5.01,
+        "speaker": "G"
+      },
+      {
+        "text": "Aren't they great?",
+        "start": 5.25,
+        "end": 6.38,
+        "speaker": "G"
+      },
+      {
+        "text": "Yes, they are.",
+        "start": 6.64,
+        "end": 8.07,
+        "speaker": "B"
+      },
+      {
+        "text": "They both are good, but I like the one on the [left] more.",
+        "start": 8.33,
+        "end": 12.1,
+        "speaker": "G"
+      },
+      {
+        "text": "How about you?",
+        "start": 12.38,
+        "end": 13.39,
+        "speaker": "G"
+      },
+      {
+        "text": "I [prefer] the one on the right.",
+        "start": 13.63,
+        "end": 15.34,
+        "speaker": "B"
+      },
+      {
+        "text": "It seems to me that the cat in it is cuter.",
+        "start": 15.54,
+        "end": 18.38,
+        "speaker": "B"
+      },
+      {
+        "text": "I also like the bird in it.",
+        "start": 18.59,
+        "end": 20.75,
+        "speaker": "B"
+      }
+    ]
+  },
+  {
+    "id": "kitchen",
+    "title": "수라간",
+    "hanja": "水剌",
+    "english": "A taste of Joseon",
+    "description": "따뜻한 한 그릇 앞에서, 나의 취향을 말해 보세요.",
+    "stamp": "수라",
+    "icon": "bowl",
+    "audio": "A2",
+    "start": 1.57,
+    "end": 17.93,
+    "lines": [
+      {
+        "text": "We can have Bibimbap or Galbitang.",
+        "start": 1.57,
+        "end": 4.47,
+        "speaker": "G"
+      },
+      {
+        "text": "[Which] do you prefer?",
+        "start": 4.76,
+        "end": 6.02,
+        "speaker": "G"
+      },
+      {
+        "text": "I prefer Bibimbap.",
+        "start": 6.26,
+        "end": 7.75,
+        "speaker": "B"
+      },
+      {
+        "text": "It [seems] to me that it's the healthier choice.",
+        "start": 7.96,
+        "end": 10.89,
+        "speaker": "B"
+      },
+      {
+        "text": "I think so, too.",
+        "start": 11.13,
+        "end": 12.4,
+        "speaker": "G"
+      },
+      {
+        "text": "I also like Bibimbap [more].",
+        "start": 12.7,
+        "end": 14.73,
+        "speaker": "G"
+      },
+      {
+        "text": "Let's [order], then.",
+        "start": 14.98,
+        "end": 16.13,
+        "speaker": "B"
+      },
+      {
+        "text": "I'm very hungry.",
+        "start": 16.37,
+        "end": 17.93,
+        "speaker": "B"
+      }
+    ]
+  },
+  {
+    "id": "ceramics",
+    "title": "도자기방",
+    "hanja": "陶磁",
+    "english": "The beauty of ceramics",
+    "description": "푸른빛과 흰빛 사이, 나만의 아름다움을 찾아보세요.",
+    "stamp": "도자",
+    "icon": "vase",
+    "audio": "A3",
+    "start": 1.66,
+    "end": 20.09,
+    "lines": [
+      {
+        "text": "Look at these two old [plates], Steve.",
+        "start": 1.66,
+        "end": 3.93,
+        "speaker": "G"
+      },
+      {
+        "text": "Aren't they beautiful?",
+        "start": 4.21,
+        "end": 5.54,
+        "speaker": "G"
+      },
+      {
+        "text": "Yes.",
+        "start": 5.8,
+        "end": 6.67,
+        "speaker": "B"
+      },
+      {
+        "text": "Which one do you prefer, the green [plate] or the white plate?",
+        "start": 6.96,
+        "end": 10.23,
+        "speaker": "B"
+      },
+      {
+        "text": "Well, it's hard to [choose], but I like the green one [better].",
+        "start": 10.53,
+        "end": 14.36,
+        "speaker": "G"
+      },
+      {
+        "text": "How about you?",
+        "start": 14.68,
+        "end": 15.87,
+        "speaker": "G"
+      },
+      {
+        "text": "Me, too.",
+        "start": 16.16,
+        "end": 17.02,
+        "speaker": "B"
+      },
+      {
+        "text": "It [seems] to me that the green plate is [more unique].",
+        "start": 17.3,
+        "end": 20.09,
+        "speaker": "B"
+      }
+    ]
+  },
+  {
+    "id": "craft",
+    "title": "공예방",
+    "hanja": "工藝",
+    "english": "A gift to remember",
+    "description": "소중한 사람을 떠올리며, 마음을 담은 선물을 골라요.",
+    "stamp": "공예",
+    "icon": "bag",
+    "audio": "A4",
+    "start": 1.74,
+    "end": 19.94,
+    "lines": [
+      {
+        "text": "Junsu, you said you're going to buy a [gift] for your sister.",
+        "start": 1.74,
+        "end": 5.58,
+        "speaker": "G"
+      },
+      {
+        "text": "How about the bags here?",
+        "start": 5.84,
+        "end": 7.59,
+        "speaker": "G"
+      },
+      {
+        "text": "They look nice.",
+        "start": 7.78,
+        "end": 9.08,
+        "speaker": "B"
+      },
+      {
+        "text": "Which [one] do you prefer, the one with flowers or the one with animals?",
+        "start": 9.35,
+        "end": 13.92,
+        "speaker": "G"
+      },
+      {
+        "text": "I prefer the one with [flowers].",
+        "start": 14.22,
+        "end": 16.32,
+        "speaker": "B"
+      },
+      {
+        "text": "It seems to me that my sister will like it [more].",
+        "start": 16.51,
+        "end": 19.94,
+        "speaker": "B"
+      }
+    ]
+  },
+  {
+    "id": "masks",
+    "title": "탈 전시실",
+    "hanja": "탈춤",
+    "english": "The stories behind the masks",
+    "description": "탈에 담긴 표정을 만나고, 탈춤 공연을 함께 보러 가요.",
+    "stamp": "탈춤",
+    "icon": "mask",
+    "audio": "C",
+    "start": 0.12,
+    "end": 47.6,
+    "lines": [
+      {
+        "speaker": "G",
+        "text": "There are two [exhibitions] we can go to.",
+        "start": 0.12,
+        "end": 2.74
+      },
+      {
+        "speaker": "G",
+        "text": "Which one do you want to see more, Eric?",
+        "start": 2.95,
+        "end": 5.03
+      },
+      {
+        "speaker": "B",
+        "text": "I [prefer] the Korean mask exhibition.",
+        "start": 5.21,
+        "end": 8.06
+      },
+      {
+        "speaker": "B",
+        "text": "Is that OK, Somi?",
+        "start": 8.24,
+        "end": 10.07
+      },
+      {
+        "speaker": "G",
+        "text": "Of course.",
+        "start": 10.34,
+        "end": 11.25
+      },
+      {
+        "speaker": "G",
+        "text": "And it seems to me that the [mask] exhibition will be much more interesting.",
+        "start": 11.46,
+        "end": 16.0
+      },
+      {
+        "speaker": "B",
+        "text": "Do you think so?",
+        "start": 16.2,
+        "end": 17.4
+      },
+      {
+        "speaker": "G",
+        "text": "Yes.",
+        "start": 17.63,
+        "end": 18.25
+      },
+      {
+        "speaker": "G",
+        "text": "Look at this poster.",
+        "start": 18.51,
+        "end": 19.9
+      },
+      {
+        "speaker": "G",
+        "text": "There isn't just an exhibition.",
+        "start": 20.09,
+        "end": 22.1
+      },
+      {
+        "speaker": "G",
+        "text": "There's also a mask dance show at 4:00 and 6:00.",
+        "start": 22.29,
+        "end": 26.12
+      },
+      {
+        "speaker": "B",
+        "text": "Great!",
+        "start": 26.34,
+        "end": 27.01
+      },
+      {
+        "speaker": "B",
+        "text": "I've never [seen] a mask dance show before.",
+        "start": 27.25,
+        "end": 29.82
+      },
+      {
+        "speaker": "G",
+        "text": "Well, I've seen a show before.",
+        "start": 30.05,
+        "end": 32.29
+      },
+      {
+        "speaker": "G",
+        "text": "I'm [sure] you'll like it.",
+        "start": 32.49,
+        "end": 33.76
+      },
+      {
+        "speaker": "B",
+        "text": "So where is the show?",
+        "start": 34.06,
+        "end": 35.83
+      },
+      {
+        "speaker": "G",
+        "text": "It's in Dasom Hall, [next] to the exhibition room.",
+        "start": 36.15,
+        "end": 39.76
+      },
+      {
+        "speaker": "B",
+        "text": "It's 4:30 now, so let's [watch] the 6 o'clock show.",
+        "start": 40.08,
+        "end": 43.69
+      },
+      {
+        "speaker": "G",
+        "text": "OK.",
+        "start": 44.17,
+        "end": 44.87
+      },
+      {
+        "speaker": "G",
+        "text": "Let's go see the exhibition [first].",
+        "start": 45.16,
+        "end": 47.6
+      }
+    ]
+  }
+]
